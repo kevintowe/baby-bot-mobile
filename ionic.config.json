@@ -1,6 +1,8 @@
 {
   "name": "baby-bot-mobile",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "79236b10"
 }
